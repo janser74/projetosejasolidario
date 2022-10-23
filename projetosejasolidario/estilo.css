@@ -1,0 +1,38 @@
+#home {
+	background: #ffc107;
+	color: white;
+}
+
+.caixa {
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a {
+	margin: 5px 15px;
+}
+
+.fonte3{
+	font-style: italic;
+	align-self: center;
+}
+
+.botao {
+	margin: auto;
+}
+
+h6 {
+	font-style: italic;
+}
+
+footer {
+	background-color: #ffc107;
+}
+
+#sobre {
+	background-color: #F1F1F1;
+}
+
+a:hover {
+	background-color: #87CEEB;
+}
